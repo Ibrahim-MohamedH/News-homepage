@@ -1,0 +1,98 @@
+* {
+  scroll-behavior: smooth;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: hsl(36, 100%, 99%);
+  font-family: "Inter", sans-serif;
+}
+
+/* ===== Navbar ==== */
+.container nav {
+  transition: all 1s;
+}
+.container .scrolled {
+  background-color: hsl(36, 100%, 99%);
+}
+.container nav button i,
+.container nav ul li a {
+  color: hsl(236, 13%, 42%);
+  cursor: pointer;
+}
+.container nav button i:hover,
+.container nav ul li a:hover {
+  color: hsl(5, 85%, 63%);
+}
+/* ====== Section ===== */
+.container section .row .web3-text h1 {
+  font-size: 60px;
+  font-weight: 800;
+}
+.container section .row .web3-text p {
+  color: hsl(236, 13%, 42%);
+}
+.container section .row .web3-text .btn {
+  background-color: hsl(5, 85%, 63%);
+  padding: 8px 30px;
+  text-transform: capitalize;
+  color: hsl(36, 100%, 99%);
+  letter-spacing: 4px;
+  border-radius: 0px;
+}
+.container section .row .web3-text .btn:hover {
+  background-color: hsl(240, 100%, 5%);
+}
+.container section .row .side-section {
+  background-color: hsl(240, 100%, 5%);
+  color: hsl(233, 8%, 79%);
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.container section .row .side-section h2 {
+  color: hsl(35, 77%, 62%);
+}
+.container section .row .side-section a {
+  text-decoration: none;
+}
+.container section .row .side-section a h5 {
+  color: hsl(36, 100%, 99%);
+  font-weight: 700;
+}
+.container section .row .side-section a h5:hover {
+  color: hsl(35, 77%, 62%);
+}
+.container section .lower-news span {
+  color: hsl(233, 8%, 79%);
+  font-size: 32px;
+  font-weight: 700;
+}
+.container section .lower-news a {
+  text-decoration: none;
+}
+.container section .lower-news a h6:hover {
+  color: hsl(5, 85%, 63%);
+}
+.container section .lower-news a h6 {
+  color: hsl(240, 100%, 5%);
+  font-weight: 800;
+}
+.container section .lower-news p {
+  font-size: 15px;
+  color: hsl(236, 13%, 42%);
+}
+
+/* ====== Footer ===== */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  font-weight: 700;
+}
+/* === Extra === */
+.pt-12 {
+  padding-top: 100px;
+}
