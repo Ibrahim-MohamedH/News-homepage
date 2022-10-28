@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://Ibrahim-MohamedH.github.io/News-homepage/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub/news-homepage-using-bootstrap-and-jquery-vhB85OHIi2)
+- Live Site URL: [Add live site URL here](https://ibrahim-mohamedh.github.io/News-homepage/)
 
 ## My process
 
